@@ -1,1 +1,3 @@
-$('h1').lettering('lines');
+$('h1').lettering('word');
+
+$('p').lettering('line');
